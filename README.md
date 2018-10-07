@@ -4,6 +4,7 @@ Additionally, we have a [blog](https://sahilbansal17.github.io/Competitive_Codin
 
 ### Algorithms
 The algorithms list is available in this [wiki page](https://github.com/sahilbansal17/Competitive_Coding/wiki/Algorithms). The folder [Algorithms](Algorithms/) contains all the implementations.
+They serve you well.
 
 ### Data Structures
 The data structures list is available in this [wiki page](https://github.com/sahilbansal17/Competitive_Coding/wiki/Data-Structures). The folder [Data Structures](Data%20Structures) contains all the implementations.
